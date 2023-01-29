@@ -2,7 +2,7 @@
 ### Template for IR result. IIR course.
 At first, run `auto-install.sh` to install all the required packages. Then, run `run-server.sh` to run the project. </br>
 ## Requirements
-* Python 3+
+* Python 3.1+
 * Another requirments will download automatically.
 
 ## Architecture
